@@ -5,7 +5,7 @@ function App() {
   return (
    <div>
     <h1>HELLO REACT</h1>
-    <h2>UPDATE MY WEB SITE</h2>
+    <h2>웹 사이트 수정</h2>
    </div>
   );
 }
