@@ -5,7 +5,7 @@ function App() {
   return (
    <div>
     <h1>HELLO REACT</h1>
-    <h2>WELCOME MY WEB SITE</h2>
+    <h2>UPDATE MY WEB SITE</h2>
    </div>
   );
 }
